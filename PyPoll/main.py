@@ -6,7 +6,7 @@ import os
 import csv
 
 csvpath = os.path.join ('Resources', 'PyPoll_Resources_election_data.csv')
-output_path = os.path.join ("Resources", "output_election_data.txt")
+output_path = os.path.join ("output_election_data.txt")
 
 total_votes = 0
 total_none = 0

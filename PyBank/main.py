@@ -6,7 +6,7 @@ import os
 import csv
 
 csvpath = os.path.join ('Resources', 'budget_data.csv')
-output_path = os.path.join ("Resources", "output_budget_data.txt")
+output_path = os.path.join ("output_budget_data.txt")
 
 list_date = []
 list_amount = []
